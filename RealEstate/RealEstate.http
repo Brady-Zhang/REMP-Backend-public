@@ -1,0 +1,6 @@
+@RealEstate_HostAddress = http://localhost:5181
+
+GET {{RealEstate_HostAddress}}/realestate/
+Accept: application/json
+
+###
